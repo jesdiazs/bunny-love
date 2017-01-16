@@ -1,0 +1,49 @@
+/*jessica*/
+@media (min-width: 320px) and (max-width: 400px){
+	.conejito{
+		background: 100%;
+	}
+	.container{
+		width: 100%;
+	}
+	.bunnies-blanco{
+		width: 100%;
+	}
+	.caja-bunnies{
+		width: 100%;
+	}
+	.bunny-size{
+		width: 100%;
+	}
+	h6{
+		text-align: center;
+		font-size: 2px;
+	}
+	.caja-bunnies p{
+		text-align: center;
+		font-size: 6px;
+	}
+}	
+
+/* empieza kelly*/
+
+@media screen and (max-width: 480px){
+ 	.col-5{ 
+ 		display: none;
+}
+
+  } 
+
+@media screen and (max-width: 667px){
+	
+  }
+
+@media screen and (max-width: 1024px){
+
+  }
+
+@media screen and (max-width: 1600){
+
+  }
+
+ /* termina kelly*/

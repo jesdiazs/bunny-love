@@ -1,0 +1,384 @@
+.container{
+	margin: 0 auto;
+	width: 80%;
+}
+.bunny{
+	font-family: 'Baloo Paaji', cursive;
+	color: #fff;
+	margin-left: 30%;
+}
+
+.love{
+	font-family: 'Baloo Paaji', cursive;
+	color: 	#ff6f69;
+	margin: 1%;
+}
+.titulo{
+	background-color: #0892d0;
+	max-width: 100%;
+}
+nav{
+	margin-left: 50%;
+	margin-bottom: 1%;
+	margin-top: -3%;
+
+}
+.menu{
+	font-family: 'Prompt', sans-serif;
+	text-decoration: none;
+	color: 	#e7eff6;
+	margin: 2%;
+}
+.fondo{
+	background-image: url("../img/img-1.jpg");
+	background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 1%;
+}
+
+.opacidad{
+    background-color: rgba(0, 126, 255, 0.3);
+    width: 80%;
+    margin: 7%;
+    padding-top: 1%;
+    padding-bottom: 7%;
+}
+
+h1{
+	font-size: 600%;
+	text-align: center;
+	padding-top: 3%;
+	padding-left: 12%;
+}
+.centrar{
+	margin: 0 40%;
+	list-style: none;
+	display: inline-flex;
+	font-family: 'Prompt', sans-serif;
+	color: #e7eff6;
+	padding-left: 3%;
+}
+
+.guion{
+	margin-right: 15%;
+	margin-left: 15%;
+}
+
+img{
+	float: left;
+	width: 12%;
+	padding-left: -2%;
+    padding-right: -2%;
+}
+
+.multiconejos{
+	margin-left: 0.5%;
+}
+
+.borde{
+	border-top: 3px #ff6f69 solid;
+}
+
+h4{
+    font-family: 'Prompt', sans-serif;
+    color: #fff;
+    background-color: #3e90b5;
+    margin-top: 0;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+.bunnies-blanco {
+	background-color: red;
+}
+
+.bunny-size {
+	width: 100%;
+}
+.caja-bunnies {
+	background-color: #3e90b5;
+	width: 90%;
+	margin-top:11%;
+	margin-left: 5%;
+}
+h6{
+	font-size: 18px;
+	font-family:'Baloo Paaji';
+	text-align: center;
+	color: 	#ee5f35;
+	padding-top: 10%;
+	margin-top: 0%;
+}
+p{
+	font-size: 16px;
+	font-family:'Prompt';
+	text-align: center;
+	color: white;
+	margin-top:0% auto;
+	padding:10px;
+}
+.bunny-3 {
+	padding-bottom: 29%;
+}
+
+.box{
+	background-color: #0881DE;
+}
+
+.box .sect-uno{
+	background-color:#BEF9FB;
+	padding-bottom: 20px;
+}
+
+.box img{
+	width: 100%;
+}
+
+.box h4{
+	width: 95%;
+	padding-left: 19px;
+	padding-right: 10px;
+	text-align: center;
+	font-family: 'Baloo Paaji';
+	font-size: 20px;
+	color:#F21C1C;
+}
+
+.box .numero{
+	padding-left: 21px;
+	padding-right: 10px;
+	font-family: 'Baloo Paaji';
+	font-size: 18px;
+}
+
+
+.box p{
+	width: 95%;
+	padding-left: 19px;
+	padding-bottom: 10px;
+	font-family: 'Prompt', sans-serif; 
+	font-size: 16px;
+}
+
+.box iframe{
+	width: 100%;
+}
+
+.box .box-gris{
+	background-color:#BEF9FB;
+	margin-left: 2%;
+}
+
+.box input{
+	width: 58%;
+	padding: 15px 30px;
+	margin: 5%;
+	border-radius: 5px;
+	border:none;
+}
+
+.box .box-foto img{
+	width: 97.8%;
+	padding-left: 10px;
+	margin-top: 8px;
+	margin-bottom: 26px;
+}
+
+.box .text{
+	width: 97.8%;
+	margin-left: 10px;
+	background-color:#BEF9FB;
+}
+
+.box .text h4{
+	width: 97.8%;
+	margin-top: 8px;
+}
+
+.box .text p{
+	width: 95%;
+	padding-left: 20px;
+	margin-top: 8px;
+}
+
+.box .iconos{
+	text-align: center;
+	color:#0881DE;
+	padding-bottom: 20px;
+}
+
+.box .fa-facebook-square{
+	background-color: #fff;
+	padding: 10px;
+	border-radius: 45px;
+}
+
+.box .fa-instagram{
+	background-color: #fff;
+	padding: 10px;
+	border-radius: 45px;
+	margin-left:20px;
+}
+
+.box .fa-twitter{
+	background-color: #fff;
+	padding: 10px;
+	border-radius: 45px;
+	margin-left:20px;
+}
+
+.box .fa-youtube{
+	background-color: #fff;
+	padding: 10px;
+	border-radius: 45px;
+	margin-left:20px;
+}
+
+.box .box-foto-uno img{
+	width: 97.8%;
+	padding-left: 10px;
+	margin-bottom:30px;
+}
+
+.box .text h4{
+	width: 97.8%;
+	margin-top: 8px;
+}
+
+.box .text p{
+	padding-bottom: 20px;
+}
+
+.box{
+	background-color: #3e90b5;
+}
+
+.box .sect-uno{
+	background-color:#BEF9FB;
+	padding-bottom: 20px;
+}
+
+.box img{
+	width: 100%;
+}
+
+.box h4{
+	width: 95%;
+	padding-left: 19px;
+	padding-right: 10px;
+	text-align: center;
+	font-family: 'Baloo Paaji';
+	font-size: 20px;
+	color:#F21C1C;
+}
+
+.box .numero{
+	padding-left: 21px;
+	padding-right: 10px;
+	font-family: 'Baloo Paaji';
+	font-size: 18px;
+}
+
+
+.box p{
+	width: 95%;
+	padding-left: 19px;
+	padding-bottom: 10px;
+	font-family: 'Prompt', sans-serif; 
+	font-size: 16px;
+}
+
+.box iframe{
+	width: 100%;
+}
+
+.box .box-gris{
+	background-color:#BEF9FB;
+	margin-left: 2%;
+}
+
+.box input{
+	width: 58%;
+	padding: 15px 30px;
+	margin: 5%;
+	border-radius: 5px;
+	border:none;
+}
+
+.box .box-foto img{
+	width: 97.8%;
+	padding-left: 10px;
+	margin-top: 8px;
+	margin-bottom: 26px;
+}
+
+.box .text{
+	width: 97.8%;
+	margin-left: 10px;
+	background-color:#BEF9FB;
+}
+
+.box .text h4{
+	width: 97.8%;
+	padding-left: 10px;
+	margin-top: 8px;
+}
+
+.box .text p{
+	width: 95%;
+	padding-left: 20px;
+	margin-top: 8px;
+}
+
+.box .iconos{
+	text-align: center;
+	color:#0881DE;
+	padding-bottom: 20px;
+}
+
+.box .fa-facebook-square{
+	background-color: #fff;
+	padding: 10px;
+	border-radius: 45px;
+}
+
+.box .fa-instagram{
+	background-color: #fff;
+	padding: 10px;
+	border-radius: 45px;
+	margin-left:20px;
+}
+
+.box .fa-twitter{
+	background-color: #fff;
+	padding: 10px;
+	border-radius: 45px;
+	margin-left:20px;
+}
+
+.box .fa-youtube{
+	background-color: #fff;
+	padding: 10px;
+	border-radius: 45px;
+	margin-left:20px;
+}
+
+.box .box-foto-uno img{
+	width: 97.8%;
+	padding-left: 10px;
+	margin-bottom:30px;
+}
+
+.box .text h4{
+	width: 97.8%;
+	padding-left: 10px;
+	margin-top: 8px;
+}
+
+.box .text p{
+	padding-bottom: 20px;
+}
+
+font-family: 'Prompt', sans-serif;
+font-family: 'Baloo Paaji', cursive;
